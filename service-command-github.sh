@@ -13,8 +13,8 @@ NC='\033[0m'
 printf "${GREEN}=== Git Pull ===${NC}\n"
 git pull git@github.com:sherbettt/ZimaBlade.git;
 
-# printf "${YELLOW}=== Git Push to gitflic.ru ===${NC}\n"
-# git push git@gitflic.ru:kkorablin/bash-cheats.git;
+printf "${YELLOW}=== Git Push to gitflic.ru ===${NC}\n"
+git push git@gitflic.ru:kkorablin/zimablade.git;
 # 
 # printf "${YELLOW}=== Git Push to gitverse.ru ===${NC}\n"
 # git push git@gitverse.ru:sherbettt/BASH-cheats.git;
